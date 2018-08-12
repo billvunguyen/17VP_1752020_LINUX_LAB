@@ -1,0 +1,11 @@
+Do dai : 2
+2313123
+1234
+So chan : 
+1234
+So le: 
+2313123
+So lon nhat: 2313123
+So nho nhat: 1234
+Nhap vi tri can tim: 
+Nhap loi

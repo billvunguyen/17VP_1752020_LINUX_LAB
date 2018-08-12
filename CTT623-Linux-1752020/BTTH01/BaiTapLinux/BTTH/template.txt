@@ -1,0 +1,4 @@
+/bin/bash
+#Ho va ten la : 
+#MSSV la : 1752035
+#Ten bai tap la : BTTH01
